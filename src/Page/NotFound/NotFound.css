@@ -1,0 +1,16 @@
+.notFound{
+    width: 100%;
+    height: 100vh;
+    background: url('../../images/404.png');
+    background-size: cover;
+    background-position: center;
+}
+.btn-regular{
+    margin-top: 90vh;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    padding: 10px 30px;
+    font-weight: 500;
+}
